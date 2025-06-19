@@ -1,0 +1,6 @@
+{
+  "name": "Générateur de QCM IA",
+  "description": "Un outil permettant aux enseignants de générer des QCM personnalisés à l'aide de l'IA. Les QCM peuvent être édités et téléchargés au format TXT.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
